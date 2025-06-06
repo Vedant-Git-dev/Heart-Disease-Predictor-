@@ -43,7 +43,6 @@ The following models were tested using cross-validation:
 - `heart_disease_predictor.ipynb`: Main notebook
 - `models testing.txt`: Model-wise accuracy results
 - `README.md`: Project documentation
-- `data.csv`: Data used for model building
 - `heart_disease_predictor.py`: Python Script
 
 ## ✅ Conclusion
