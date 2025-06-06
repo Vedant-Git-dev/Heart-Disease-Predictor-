@@ -27,7 +27,7 @@ The following models were tested using cross-validation:
 - Python
 - Pandas, NumPy
 - scikit-learn (for preprocessing, modeling, and evaluation)
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook 
 
 ## 🚀 Steps Performed
 
