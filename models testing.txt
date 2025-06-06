@@ -12,8 +12,6 @@ GradientBoostingClassifier()
 
 KNN Tuning : 
 	0.8268333333333333
-	{'metric': 'minkowski', 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
 
 RandomForestClassifier Tuning :
 	0.8225
-	{'max_depth': 4, 'n_estimators': 50}
