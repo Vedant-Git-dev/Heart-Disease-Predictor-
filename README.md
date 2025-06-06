@@ -20,7 +20,7 @@ The following models were tested using cross-validation:
 | LogisticRegression         | 0.7980    |
 | GradientBoostingClassifier | 0.7650    |
 
-📄 *For detailed scores, refer to `models.txt` file.*
+📄 *For detailed scores, refer to `models testing.txt` file.*
 
 ## ⚙️ Technologies Used
 
