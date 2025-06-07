@@ -20,7 +20,7 @@ The following models were tested using cross-validation:
 | LogisticRegression         | 0.7980    |
 | GradientBoostingClassifier | 0.7650    |
 
-📄 *For detailed scores, refer to `models testing.txt` file.*
+📄 *For detailed scores, refer to `models.txt` file.*
 
 ## ⚙️ Technologies Used
 
@@ -41,7 +41,7 @@ The following models were tested using cross-validation:
 ## 📁 Files
 
 - `heart_disease_predictor.ipynb`: Main notebook
-- `models testing.txt`: Model-wise accuracy results
+- `models.txt`: Model-wise accuracy results
 - `README.md`: Project documentation
 - `heart_disease_predictor.py`: Python Script
 
